@@ -1,11 +1,11 @@
 <?php
 
 // パラメータ類
-$client_id = '<アプリケーションIDを張り付けてください>';
-$client_secret = '<キーを張り付けてください>';
-$redirect_uri = 'https://<アプリケーション名を張り付けてください>.azurewebsites.net/index.php';
-$authorization_endpoint = '<OAUTH 2.0 承認エンドポイントのアドレスを張り付けてください>';
-$token_endpoint = '<OAUTH 2.0 トークンエンドポイントのアドレスを張り付けてください>';
+$client_id = 'c48f8432-12d7-4085-a850-78b93771de0a';
+$client_secret = 'IOq8Q~uIXOisE2ZOvgVgj5AdgHzpY.hlNmUAGaTg';
+$redirect_uri = 'https://OIDC-Azure-SN.azurewebsites.net/index.php';
+$authorization_endpoint = 'https://login.microsoftonline.com/8c03d386-25d9-400e-b3e8-f35f76928ff4/oauth2/v2.0/authorize';
+$token_endpoint = 'https://login.microsoftonline.com/8c03d386-25d9-400e-b3e8-f35f76928ff4/oauth2/v2.0/token';
 $response_type = 'code';
 $state =  'state_phpv1';
 
