@@ -1,8 +1,8 @@
 <?php
 
 // パラメータ類
-$client_id = 'c48f8432-12d7-4085-a850-78b93771de0a';
-$client_secret = 'IOq8Q~uIXOisE2ZOvgVgj5AdgHzpY.hlNmUAGaTg';
+$client_id = '2c612643-5d14-4d40-b619-4c48d20f02ec';
+$client_secret = 'Fnj8Q~ovrLNz-jKDGrAHlkcMzMmMLkB4EE_ada4Y';
 $redirect_uri = 'https://OIDC-Azure-SN.azurewebsites.net/index.php';
 $authorization_endpoint = 'https://login.microsoftonline.com/8c03d386-25d9-400e-b3e8-f35f76928ff4/oauth2/v2.0/authorize';
 $token_endpoint = 'https://login.microsoftonline.com/8c03d386-25d9-400e-b3e8-f35f76928ff4/oauth2/v2.0/token';
